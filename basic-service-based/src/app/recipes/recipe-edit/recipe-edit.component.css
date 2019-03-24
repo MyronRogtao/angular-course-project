@@ -1,0 +1,7 @@
+input.ng-invalid, textarea.ng-invalid {
+    border-color: red;
+}
+
+.help-text {
+    color: red
+}
